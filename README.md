@@ -94,7 +94,7 @@ The dataset folder contains the following files:
 ## Model Overview:
 
 ### Stacked Ensemble Model:
-- You combined predictions from RandomForestRegressor and XGBRegressor into a meta-model using Linear Regression.
+- I combined predictions from RandomForestRegressor and XGBRegressor into a meta-model using Linear Regression.
 - The meta-model learns how to blend the individual predictions, aiming to reduce the overall error.
 
 ### Model Components:
